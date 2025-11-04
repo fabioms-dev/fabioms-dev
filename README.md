@@ -1,6 +1,6 @@
 ## Olá! Sou o Fabio 👋
 
-##  Sobre mim
+## 🙋‍♂️ Sobre mim
 - 💻 Eu sou um desenvolvedor **Back-End**  
 - 🎓 Formado em **Sistemas de Informação**  
 - 🎓 Especializado em **Arquitetura de Software Distribuído** e em **Ciência de Dados e Big Data**  
