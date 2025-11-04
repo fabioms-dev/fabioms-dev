@@ -15,7 +15,7 @@
 - ☁️ **Cloud**: Azure | Docker | Kubernetes | AWS
 - 📊 **Integração de Dados**: ETL | SSIS
 - 🗃️ **Banco de Dados**: MongoDB | Redis | SQL Server | Sybase
-- 🧪 **Testes**: xUnit | Postman | Testcontainer
+- 🧪 **Testes**: xUnit | Postman | Selenium
 - 🔐 **Segurança**: OAuth2 | JWT | OWASP
 - 🧱 **Gateway**: Sensedia | AWS Gateway
 - 🔎 **Observabilidade**: Datadog | AppDynamics
